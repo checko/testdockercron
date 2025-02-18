@@ -1,4 +1,5 @@
 docker build -t my-cron-job .
+
 docker run -d my-cron-job
 
 
